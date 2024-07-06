@@ -8,11 +8,8 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['201114329294', '❤️‍🔥ITACHI❤️‍🔥', true],
-  ['201114329294', 'ITACHI', true],
-  ['201114329294', '❤️‍🔥ITACHI❤️‍🔥', true],
-  ['201114329294', 'ITACHI', true],
- ['201114329294', '❤️‍🔥ITACHI❤️‍🔥', true],
+  ['201110156619', '⭕ＭＯＳＴＡＦＡ❌', true],
+  ['201129003230', '⚠️ẉa.me//𝐵𝛩𝑺𝑺‖.pei!‽⚠️', true],
 ]
 
 global.suittag = ['201114329294'] 
