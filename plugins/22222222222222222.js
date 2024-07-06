@@ -19,7 +19,7 @@ let handler = async (m, { conn, args, groupMetadata }) => {
       
       handler.help = ['delwarn @user']
       handler.tags = ['group']
-      handler.command = ['delwarn', 'unwarn','شيل-انذار']
+      handler.command = ['delwarn', 'unwarn','شيل-انذار','الغاء-الانذار']
       handler.group = true
       handler.admin = true
       handler.botAdmin = true
